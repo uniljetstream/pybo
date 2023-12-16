@@ -1,4 +1,3 @@
-from .base import *
 import environ
 
 ALLOWED_HOSTS=['43.202.231.224', 'foolish-pillow.xyz']
