@@ -186,7 +186,7 @@ LOGGING = {
             'level': 'INFO',
         },
         'pybo': {
-            'handlers':['console', 'file'],
+            'handlers': ['console', 'file'],
             'level': 'INFO',
         },
         'django.server': {
